@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial5Api", "Tutorial5Api\Tutorial5Api.csproj", "{52C81317-8DF1-40D7-82D3-B6085FE1B41E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial5ApiLoadTests", "Tutorial5ApiLoadTests\Tutorial5ApiLoadTests.csproj", "{9CC3F844-9724-43BF-B223-37F79BE36894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial5", "Tutorial5\Tutorial5.csproj", "{13C7294A-9010-453F-9E19-841B36528799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C81317-8DF1-40D7-82D3-B6085FE1B41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C81317-8DF1-40D7-82D3-B6085FE1B41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C81317-8DF1-40D7-82D3-B6085FE1B41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C81317-8DF1-40D7-82D3-B6085FE1B41E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC3F844-9724-43BF-B223-37F79BE36894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC3F844-9724-43BF-B223-37F79BE36894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC3F844-9724-43BF-B223-37F79BE36894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC3F844-9724-43BF-B223-37F79BE36894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C7294A-9010-453F-9E19-841B36528799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C7294A-9010-453F-9E19-841B36528799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C7294A-9010-453F-9E19-841B36528799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C7294A-9010-453F-9E19-841B36528799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

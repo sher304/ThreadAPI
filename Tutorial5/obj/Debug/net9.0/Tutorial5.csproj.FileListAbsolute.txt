@@ -1,0 +1,29 @@
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Lecture 5/Lecture5/Tutorial5/bin/Debug/net9.0/Tutorial5
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Lecture 5/Lecture5/Tutorial5/bin/Debug/net9.0/Tutorial5.deps.json
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Lecture 5/Lecture5/Tutorial5/bin/Debug/net9.0/Tutorial5.runtimeconfig.json
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Lecture 5/Lecture5/Tutorial5/bin/Debug/net9.0/Tutorial5.dll
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Lecture 5/Lecture5/Tutorial5/bin/Debug/net9.0/Tutorial5.pdb
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Lecture 5/Lecture5/Tutorial5/obj/Debug/net9.0/Tutorial5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Lecture 5/Lecture5/Tutorial5/obj/Debug/net9.0/Tutorial5.AssemblyInfoInputs.cache
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Lecture 5/Lecture5/Tutorial5/obj/Debug/net9.0/Tutorial5.AssemblyInfo.cs
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Lecture 5/Lecture5/Tutorial5/obj/Debug/net9.0/Tutorial5.csproj.CoreCompileInputs.cache
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Lecture 5/Lecture5/Tutorial5/obj/Debug/net9.0/Tutorial5.sourcelink.json
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Lecture 5/Lecture5/Tutorial5/obj/Debug/net9.0/Tutorial5.dll
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Lecture 5/Lecture5/Tutorial5/obj/Debug/net9.0/refint/Tutorial5.dll
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Lecture 5/Lecture5/Tutorial5/obj/Debug/net9.0/Tutorial5.pdb
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Lecture 5/Lecture5/Tutorial5/obj/Debug/net9.0/Tutorial5.genruntimeconfig.cache
+/Users/pgago/Projects/PJATK/teach-classes-materials/APBD_2/Lecture 5/Lecture5/Tutorial5/obj/Debug/net9.0/ref/Tutorial5.dll
+C:\Users\s31657\Downloads\Tutorial7\Lecture5\Tutorial5\bin\Debug\net9.0\Tutorial5.exe
+C:\Users\s31657\Downloads\Tutorial7\Lecture5\Tutorial5\bin\Debug\net9.0\Tutorial5.deps.json
+C:\Users\s31657\Downloads\Tutorial7\Lecture5\Tutorial5\bin\Debug\net9.0\Tutorial5.runtimeconfig.json
+C:\Users\s31657\Downloads\Tutorial7\Lecture5\Tutorial5\bin\Debug\net9.0\Tutorial5.dll
+C:\Users\s31657\Downloads\Tutorial7\Lecture5\Tutorial5\bin\Debug\net9.0\Tutorial5.pdb
+C:\Users\s31657\Downloads\Tutorial7\Lecture5\Tutorial5\obj\Debug\net9.0\Tutorial5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s31657\Downloads\Tutorial7\Lecture5\Tutorial5\obj\Debug\net9.0\Tutorial5.AssemblyInfoInputs.cache
+C:\Users\s31657\Downloads\Tutorial7\Lecture5\Tutorial5\obj\Debug\net9.0\Tutorial5.AssemblyInfo.cs
+C:\Users\s31657\Downloads\Tutorial7\Lecture5\Tutorial5\obj\Debug\net9.0\Tutorial5.csproj.CoreCompileInputs.cache
+C:\Users\s31657\Downloads\Tutorial7\Lecture5\Tutorial5\obj\Debug\net9.0\Tutorial5.dll
+C:\Users\s31657\Downloads\Tutorial7\Lecture5\Tutorial5\obj\Debug\net9.0\refint\Tutorial5.dll
+C:\Users\s31657\Downloads\Tutorial7\Lecture5\Tutorial5\obj\Debug\net9.0\Tutorial5.pdb
+C:\Users\s31657\Downloads\Tutorial7\Lecture5\Tutorial5\obj\Debug\net9.0\Tutorial5.genruntimeconfig.cache
+C:\Users\s31657\Downloads\Tutorial7\Lecture5\Tutorial5\obj\Debug\net9.0\ref\Tutorial5.dll
