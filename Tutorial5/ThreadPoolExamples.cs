@@ -2,12 +2,16 @@ namespace Tutorial5;
 
  /// <summary>
     /// Examples using ThreadPool for concurrency
+    ///
+    /// The ThreadPool is a built-in pool of reusable worker threads that .NET manages for you.
+    /// Instead of creating new threads every time (which is expensive), .NET gives you a pool of ready-to-go threads that can do background work
     /// </summary>
     public static class ThreadPoolExamples
     {
         /// <summary>
         /// Basic ThreadPool usage
         /// Question: What will be the order of the output?
+        /// As simple
         /// </summary>
         public static void Example1()
         {
@@ -51,13 +55,14 @@ namespace Tutorial5;
                     Console.WriteLine("ThreadPool: Work completed");
                     
                     // Signal that work is complete
+                    // When done, it calls resetEvent.Set() — 💡 this turns the light green (signals other threads).
                     resetEvent.Set();
                 });
                 
                 Console.WriteLine("Main thread: Waiting for work to complete");
                 
                 // Wait for the work to complete
-                resetEvent.WaitOne();
+                resetEvent.WaitOne(); // ⛔ Wait here until Set() is called
                 
                 Console.WriteLine("Main thread: Received completion signal");
             }
@@ -65,6 +70,12 @@ namespace Tutorial5;
             Console.WriteLine("ThreadPool Example 2 completed");
         }
 
+        //👷 ManualResetEvent:
+        //A builder says “I’m done” and flips a switch so the inspector can proceed.
+
+        //🧮 CountdownEvent:
+        //3 builders each say “I’m done” one after another — inspector waits until all 3 are finished.
+            
         /// <summary>
         /// Multiple work items with state
         /// Question: What will be the order of the output?
